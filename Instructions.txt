@@ -1,0 +1,47 @@
+Thank you for downloading, Boxecuter.
+
+Support discord server: https://discord.gg/DHKBpKm6NF
+
+Info:
+It was finished on the 9th of february.
+
+Not all scripts may be supported on the executer if there are any problems report
+to the support discord server.
+
+Boxecuter is still currently in Beta so things may be unstable.
+
+If you ever get a error press Continue. 
+
+-------------------------------------------------------------------------------
+
+Feature updates:
+
+Script Hub
+Settings
+
+-------------------------------------------------------------------------------
+
+Credits:
+Icon for the executor: Anvixity
+Maker for the executor: TinyBox
+
+-------------------------------------------------------------------------------
+
+Instructions:
+
+How to use Boxecuter:
+
+You first open the executer, after you open your browser and go to roblox you log in or sign up
+after you did that you go in any game you want to, after your gonna put a script in the box on the executer
+then you must first press the Inject button after the pop up with the executer loading then your gonna want to
+press execute then your script is gonna work. Have fun!
+
+
+Scripts Select:
+
+In the folder you opened there is another folder that is called, Scripts
+if you put a notepad with a script in the notepad example: loadstring(game:HttpGet("https://raw.githubusercontent.com/blalba/blalba/blabla/blabla.lua"))();
+and then you open the Executer and press the refresh button then its gonna show you the notepad that you put in that sort of blank box and you can put
+multiple notepads with scripts in the folder and it will appear in the blank box.
+
+-------------------------------------------------------------------------------

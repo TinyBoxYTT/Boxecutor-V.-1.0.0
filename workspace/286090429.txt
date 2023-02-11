@@ -1,0 +1,1 @@
+{"FOV Radius":"160","Smoothness":"5","Wallbang":true,"Aim Key":"MouseButton1","Aimbot":true,"Team Check":true,"Show FOV":true,"Visuals Color":{"B":255,"G":186.81960493326188,"R":8.79310816526413},"ESP":true,"Tracers":true,"Aim Part":"Head","Silent Aim":true}
